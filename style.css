@@ -18,8 +18,6 @@ background-position: center;
     width: 700px;
     transform: translate(-50%, -50%);
     box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
-    background-attachment: fixed;
-background-position: center;
 }
 
 .duration img{
@@ -29,8 +27,6 @@ top: 10%;
 left: 50%;
    width: 75%;
    height: auto;
-   background-attachment: fixed;
-background-position: center;
    
     
 }
@@ -52,11 +48,9 @@ height: 40px;
     position: absolute;
     top: 30%;
     left: 13%;
-    width: 540px;
-    height: 250px;
+    width: 80%;
+    height: 28.125%;
     overflow: hidden;
-    background-attachment: fixed;
-background-position: center;
     
     
 }
